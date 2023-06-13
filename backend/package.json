@@ -9,6 +9,7 @@
 		"deploy-local": "npx hardhat run ./scripts/deploy.js --network localhost"
 	},
 	"dependencies": {
+		"@openzeppelin/contracts": "^4.9.1",
 		"dotenv": "^16.0.2"
 	},
 	"devDependencies": {
